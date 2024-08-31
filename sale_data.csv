@@ -1,0 +1,5 @@
+date,store,product,quantity,price
+2024-01-01,Store A,Product 1,10,20.5
+2024-01-01,Store B,Product 2,5,15.0
+2024-01-02,Store A,Product 1,8,20.5
+2024-01-02,Store B,Product 2,7,15.0
